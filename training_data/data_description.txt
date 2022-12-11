@@ -1,0 +1,3 @@
+'dictionary.csv' contains more than 44 thousand tg-fa word pairs taken from a Tajik dictionary (made under the supervision of S. Nazaroda).
+'news.csv' contains more than 7 thousand tg-fa passage pairs (under a 70 symbols limit) taken from BBC news.
+'poetry.csv' contains more than 60 thousand tg-fa line pairs taken from poems by Rumi, Rudaki, Asadi Tusi, Bozor Sobir, and Farzona.
