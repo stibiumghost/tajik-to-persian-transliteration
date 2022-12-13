@@ -4,6 +4,10 @@ A Tajik-to-Persian transliteration model based on https://github.com/bashartalaf
 
 The presented model shows a Levenshtein ratio of 0.96.
 
+## Dependency
+- `numpy`
+- `keras`
+
 ## Installation and Usage
 ```py
 pip install tg2fa_translit
