@@ -1,0 +1,4 @@
+'wiki_noise.csv' contains tg-fa word pairs taken from Wikipedia titles.
+'news_noise.csv' contains tg-fa passage pairs taken from BBC news.
+
+IMPORTANT: This data should not be used without preprocessing.
